@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hooman Aghalou, a MSc student of remote sensing and photogrammetry at K. N. Toosi university of technology in Tehran/Iran.
-Im :
+- Im :
    -    Experienced in different concepts of remote sensing and working with different multispectral and hyperspectral sensors, and 
  familiar with the concepts of precision agriculture and applications of remote sensing in this area such as soil and plant monitoring.
    -    Skilled in working with neural networks, machine learning and deep learning algorythms and familiar with application of artificial intelligence in remote sensing projects.
