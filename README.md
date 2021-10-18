@@ -9,7 +9,7 @@
  
  - 🏅 Achievments: 
     - Taking classes and courses related to remote sensing, artificial intelligence and programming and receiving a high-grade.
-    - Obtaining the rank of 14 out of 8 to 15 thousands in master's entrance exams.
+    - Obtaining the rank of 14 out of 8 to 15 thousands in master's entrance exam.
     
 - 👀 I’m interested in : 
      - AI, Machine Learning and Deep Learning, Computer vision and their usecases in RS.
