@@ -2,7 +2,7 @@
 - Im :
    -    Experienced in different concepts of remote sensing and working with different multispectral and hyperspectral sensors, and 
  familiar with the concepts of precision agriculture and applications of remote sensing in this area such as soil and plant monitoring.
-   -    Skilled in working with neural networks, machine learning and deep learning algorythms and familiar with application of artificial intelligence in remote sensing projects.
+   -    Skilled in working with neural networks, machine learning and deep learning algorithms and familiar with application of artificial intelligence in remote sensing projects.
    -    Skilled in using libraries and tools related to artificial intelligence, machine learning and deep learning in python such as : Numpy, Pandas, Matplotlib, Scikit Learn, Tensorflow and Keras.
    -    Skilled in Python, Git, Matlab, Envi and Microsoft office.
    -    Able to speak in Persian, English, Azeri and Turkish Languages.
