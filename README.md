@@ -6,7 +6,7 @@ Passionate about **AI, Data Science, and Geospatial Intelligence**, I love explo
 
 🔭 **Currently working on:** Autonomous UAV Navigation & AI-based Change Detection  
 🌱 **Learning:** Advanced Geospatial AI & Large-Scale Data Processing  
-💬 **Ask me about:** Python, TensorFlow, PyTorch, Satellite Imagery, or Sensor Fusion  
+💬 **Ask me about:** AI, Python, TensorFlow, PyTorch, Satellite Imagery, or Sensor Fusion  
 📫 **Reach me:** aghaloohooman@gmail.com - www.linkedin.com/in/hoomanaghalou                                                                                                                                                                                                                                                                                                    
 ⚡ **Fun fact:** I can analyze satellite images to track changes over time—almost like time travel!
 
@@ -45,7 +45,7 @@ Passionate about **AI, Data Science, and Geospatial Intelligence**, I love explo
 
 ### **AI Engineer** | *Sharif Dynamics* | **05/2023 – Present**  
 📍 Tehran, Iran  
-- Developed a **Vision-based UAV localization system** for GPS-denied environments using **deep features, LiDAR, and radar**.  
+- Developed a **Vision-based UAV localization system** for GPS-denied environments using **deep features, RGB-NIR cameras, LiDAR, and radar**.  
 - Implemented **YOLOv8-based target detection & tracking** for satellite/UAV imagery (Optic & SAR).  
 - Built **change detection models** for bi-temporal satellite imagery (MFPNet, ChangerX).  
 - Managed **geospatial databases**, linking datasets with spatial metadata.  
