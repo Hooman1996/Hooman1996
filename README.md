@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Hooman Aghalou]
+# Hi there 👋, I'm Hooman Aghalou
 
 **AI Engineer | Data Scientist | Remote Sensing Specialist**
 
@@ -43,20 +43,20 @@ Passionate about **AI, Data Science, and Geospatial Intelligence**, I love explo
 
 ## 💼 Professional Experience
 
-### **AI Engineer** | *[Sharif Dynamics]* | **05/2023 – Present**  
+### **AI Engineer** | *Sharif Dynamics* | **05/2023 – Present**  
 📍 Tehran, Iran  
 - Developed a **Vision-based UAV localization system** for GPS-denied environments using **deep features, LiDAR, and radar**.  
 - Implemented **YOLOv8-based target detection & tracking** for satellite/UAV imagery (Optic & SAR).  
 - Built **change detection models** for bi-temporal satellite imagery (MFPNet, ChangerX).  
 - Managed **geospatial databases**, linking datasets with spatial metadata.  
 
-### **AI Engineer (Deep Learning Lead)** | *[Sharif Hamrah Pajoohan]* | **08/2021 – 07/2024**  
+### **AI Engineer (Deep Learning Lead)** | *Sharif Hamrah Pajoohan* | **08/2021 – 07/2024**  
 📍 Tehran, Iran  
 - Led **satellite image processing** for object detection (roads/buildings) using **DeepLabV3+**.  
 - Designed **change detection algorithms** (DSNUNet) for SAR/Optic time-series analysis.  
 - Presented AI-driven insights to **executives & stakeholders**.  
 
-### **Data Analyst & RS Team Lead** | *[Sarvban]* | **02/2021 – 08/2021**  
+### **Data Analyst & RS Team Lead** | *Sarvban* | **02/2021 – 08/2021**  
 📍 Tehran, Iran  
 - Analyzed competitor datasets and optimized **technical roadmaps** for resource efficiency.  
 
