@@ -7,8 +7,7 @@ Passionate about **AI, Data Science, and Geospatial Intelligence**, I love explo
 🔭 **Currently working on:** Autonomous UAV Navigation & AI-based Change Detection  
 🌱 **Learning:** Advanced Geospatial AI & Large-Scale Data Processing  
 💬 **Ask me about:** Python, TensorFlow, PyTorch, Satellite Imagery, or Sensor Fusion  
-📫 **Reach me:** aghaloohooman@gmail.com - www.linkedin.com/in/hoomanaghalou 
-
+📫 **Reach me:** aghaloohooman@gmail.com - www.linkedin.com/in/hoomanaghalou                                                                                                                                                                                                                                                                                                    
 ⚡ **Fun fact:** I can analyze satellite images to track changes over time—almost like time travel!
 
 ---
