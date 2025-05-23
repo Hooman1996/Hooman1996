@@ -88,7 +88,7 @@ Passionate about **AI, Data Science, and Geospatial Intelligence**, I love explo
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hooman1996&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hooman1996&layout=compact&theme=radical)
 
 **Let’s transform data into insights!** 🚀
