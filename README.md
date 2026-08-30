@@ -11,12 +11,7 @@ software engineering, technical leadership, and cross-functional delivery capabi
 complex business requirements into reliable, secure, and measurable AI solutions from initial research through
 production deployment.
 
-🔭 **Currently working on:** Autonomous UAV Navigation & AI-based Change Detection  
-🌱 **Learning:** Advanced Geospatial AI & Large-Scale Data Processing  
-💬 **Ask me about:** AI, Python, TensorFlow, PyTorch, Satellite Imagery, or Sensor Fusion  
-📫 **Reach me:** aghaloohooman@gmail.com - www.linkedin.com/in/hoomanaghalou                                                                                                                                                                                                                                                                                                    
-⚡ **Fun fact:** I can analyze satellite images to track changes over time—almost like time travel!
-
+📫 **Reach me:** aghaloohooman@gmail.com - www.linkedin.com/in/hoomanaghalou                                                                                                                                                                                                
 ---
 
 ## 🛠️ Skills & Technologies
