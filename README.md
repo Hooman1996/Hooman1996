@@ -43,23 +43,72 @@ Passionate about **AI, Data Science, and Geospatial Intelligence**, I love explo
 
 ## 💼 Professional Experience
 
-### **AI Engineer** | *Sharif Dynamics* | **05/2023 – Present**  
-📍 Tehran, Iran  
-- Developed a **Vision-based UAV localization system** for GPS-denied environments using **deep features, RGB-NIR cameras, LiDAR, and radar**.  
-- Implemented **YOLOv8-based target detection & tracking** for satellite/UAV imagery (Optic & SAR).  
+### **AI Engineer** | *Negah Bank* | **06/2025 –  06/2026** 
+#### Internal Knowledge Retrieval Platform (RAG‑Based Chatbot)
+- Architected and deployed a full‑stack **RAG** platform indexing 12,000+ internal PDFs and
+scanned documents, combining **PostgreSQL** for metadata and audit logs, **MinIO** for S3‑compatible object
+storage, **Qdrant** for vector search, and a millisecond‑level BM25/semantic **hybrid retrieval**.
+- Designed heading-aware ingestion, **OCR** preprocessing, chunk lineage, metadata filtering, re-ranking, and
+deterministic source attribution; achieved **91% Recall@5** and **84% Mean Reciprocal Rank** on a manually
+labeled benchmark of 600 internal knowledge queries.
+- Built a bilingual **fine‑tuned OCR** pipeline for skewed, noisy, and low-resolution documents, reducing
+**character error rate** from **14.8% to 4.3%** across a test set of 1,500 document pages.
+- Reduced median **employee knowledge-lookup time** from **6.5 minutes to 38 seconds**, measured across 120
+representative retrieval tasks completed by operations and support personnel.
+#### AI‑Driven CRM Platform (HiBot Banking Assistant)
+- Shipped a context-aware, multi-turn **conversational banking assistant** with authenticated, allowlisted
+banking workflows through schema-validated tool calls, explicit confirmation for high-risk actions, audit
+logging, and deterministic fallback paths, maintaining context across up to 12 conversational turns.
+•Deployed on the **HiBank Neo‑Banking app** (>1.6 million active users), handling **10,000+ conversations/day**
+with a **91% containment rate** across 1.1 million production conversations over three months while
+maintaining **6.5-second p95 response latency** and 99.7% service availability.
+•Established an **evaluation and monitoring workflow** covering **retrieval quality**, answer groundedness,
+latency, failure rates, and user feedback; introduced versioned releases and rollback procedures for model,
+prompt, and retrieval-configuration updates.
+•Partnered with **backend, DevOps, CRM, compliance, and customer-support teams** to move AI services
+from prototype to production, define API contracts, implement audit logging and access controls, and
+document incident-response and escalation procedures.
+•Reduced reliance on live support-center agents by 65% and improved overall CSAT by 18% within 6 months.
+
+### **AI Engineer** | *Sharif Dynamics* | **06/2023 –  06/2025**  
+📍 Dubai, Emirates
+##### Autonomous UAV Navigation (GPS‑Denied)
+- Built a real-time **multi-sensor localization** system combining RGB imagery, LiDAR, and radar for **GPSdenied navigation**; achieved **1.8-meter positional RMSE and 4.6-meter 95th-percentile** error across 64
+controlled field trials.
+- Optimized image preprocessing and neural-network inference with TensorRT on NVIDIA Jetson Orin,
+sustaining **25 FPS with 39-millisecond p95 inference latency** under a 30-watt power profile across 50+
+completed field flights.  
 - Built **change detection models** for bi-temporal satellite imagery (MFPNet, ChangerX).  
 - Managed **geospatial databases**, linking datasets with spatial metadata.  
+##### Target Detection & Tracking from Aerial / Satellite Imagery
+- Trained and evaluated **YOLOv8** detection models on aerial optical and SAR imagery, achieving **92% mAP50
+and 61% mAP50–95** on a held-out test set; integrated DeepSORT and **reduced tracking ID switches by 40%**
+compared with the previous YOLOv8-and-SORT baseline.
+##### Change Detection for Infrastructure Monitoring
+- Developed a **bi-temporal satellite change-detection** pipeline using **MFPNet** and **ChangerX**, achieving **88%
+pixel-level F1** and processing approximately **250 km² per day** for 0.5-meter imagery on a single NVIDIA RTX
+A6000 GPU.
+##### Geospatial Database
+Redesigned **PostGIS** spatial indexes and optimized the most frequent navigation-query plans, reducing p95
+query latency by 45%, from 820 milliseconds to 450 milliseconds, across a benchmark of 10,000
+representative spatial queries.
 
-### **AI Engineer (Deep Learning Lead)** | *Sharif Hamrah Pajoohan* | **08/2021 – 07/2024**  
+### **AI Engineer (Deep Learning Lead)** | *Irancell Signal Processing Lab* | **06/2021 – 06/2023**  
 📍 Tehran, Iran  
-- Led **satellite image processing** for object detection (roads/buildings) using **DeepLabV3+**.  
-- Designed **change detection algorithms** (DSNUNet) for SAR/Optic time-series analysis.  
-- Presented AI-driven insights to **executives & stakeholders**.  
+- Led a **four-engineer applied-ML team** developing **DeepLabV3+** road and building segmentation models,
+achieving **84% mIoU** on 2,400 labeled image tiles.  
+- Developed a  **DSNUNet change-detection** pipeline for **SAR/optical** image pairs, achieving **87% precision,
+83% recall, and 85% F1** on 3,200 labeled pairs..  
+- Integrated segmentation masks into a DEM-refinement pipeline, reducing elevation RMSE from 4.7 m to 4.0
+m across 12 validation areas and cutting manual digitization effort by 70%.  
 
-### **Data Analyst & RS Team Lead** | *Sarvban* | **02/2021 – 08/2021**  
+### **Data Analyst & RS Team Lead** | *Sarvban* | **02/2021 – 06/2021**  
 📍 Tehran, Iran  
-- Analyzed competitor datasets and optimized **technical roadmaps** for resource efficiency.  
-
+- Analyzed 15+ competitors and identified 10 product opportunities; four recommendations advanced to
+prototype development and customer validation.
+- Designed scalable remote sensing data pipelines to ingest, preprocess, tile, analyze, and catalog large
+volumes of multispectral and SAR imagery, reducing end-to-end processing time by 60% and enabling
+repeatable regional-scale analysis.
 ---
 
 ## 🎓 Education
