@@ -49,8 +49,11 @@ production deployment.
 ---
 
 ## 💼 Professional Experience
-
 ### **AI Engineer** | *PropTy Global* | **06/2025 –  06/2026**
+📍 Dubai, Emirates
+- Architected and deployed a full‑stack Computer vision system in AR/VR for real estate businesses.
+
+### **AI Engineer** | *Negah Bank* | **06/2025 –  06/2026**
 📍 Dubai, Emirates
 #### Internal Knowledge Retrieval Platform (RAG‑Based Chatbot)
 - Architected and deployed a full‑stack **RAG** platform indexing 12,000+ internal PDFs and
