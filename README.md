@@ -2,7 +2,14 @@
 
 **AI Engineer | Data Scientist | Remote Sensing Specialist**
 
-Passionate about **AI, Data Science, and Geospatial Intelligence**, I love exploring datasets, uncovering patterns, and deriving actionable insights. My expertise lies in **deep learning, computer vision, and sensor fusion**, with a strong background in **mathematics, programming, and remote sensing**. I thrive on applying **data-driven solutions** to real-world challenges, optimizing processes, and enhancing decision-making.
+Senior AI/ML Engineer with 5+ years of experience designing, deploying, and scaling production AI systems
+across financial services, telecommunications, autonomous navigation, and geospatial analytics. Proven track
+record of delivering enterprise RAG and conversational AI platforms, including a bilingual knowledge system
+indexing 12,000+ documents and a banking assistant processing 10,000+ daily conversations. Combining deep
+expertise in Python, PyTorch, FastAPI, computer vision, semantic search, and optimized inference with strong
+software engineering, technical leadership, and cross-functional delivery capabilities. Experienced in translating
+complex business requirements into reliable, secure, and measurable AI solutions from initial research through
+production deployment.
 
 🔭 **Currently working on:** Autonomous UAV Navigation & AI-based Change Detection  
 🌱 **Learning:** Advanced Geospatial AI & Large-Scale Data Processing  
