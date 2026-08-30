@@ -62,16 +62,16 @@ representative retrieval tasks completed by operations and support personnel.
 - Shipped a context-aware, multi-turn **conversational banking assistant** with authenticated, allowlisted
 banking workflows through schema-validated tool calls, explicit confirmation for high-risk actions, audit
 logging, and deterministic fallback paths, maintaining context across up to 12 conversational turns.
-•Deployed on the **HiBank Neo‑Banking app** (>1.6 million active users), handling **10,000+ conversations/day**
+- Deployed on the **HiBank Neo‑Banking app** (>1.6 million active users), handling **10,000+ conversations/day**
 with a **91% containment rate** across 1.1 million production conversations over three months while
 maintaining **6.5-second p95 response latency** and 99.7% service availability.
-•Established an **evaluation and monitoring workflow** covering **retrieval quality**, answer groundedness,
+- Established an **evaluation and monitoring workflow** covering **retrieval quality**, answer groundedness,
 latency, failure rates, and user feedback; introduced versioned releases and rollback procedures for model,
 prompt, and retrieval-configuration updates.
-•Partnered with **backend, DevOps, CRM, compliance, and customer-support teams** to move AI services
+- Partnered with **backend, DevOps, CRM, compliance, and customer-support teams** to move AI services
 from prototype to production, define API contracts, implement audit logging and access controls, and
 document incident-response and escalation procedures.
-•Reduced reliance on live support-center agents by 65% and improved overall CSAT by 18% within 6 months.
+- Reduced reliance on live support-center agents by 65% and improved overall CSAT by 18% within 6 months.
 
 ### **AI Engineer** | *Sharif Dynamics* | **06/2023 –  06/2025**  
 📍 Dubai, Emirates
