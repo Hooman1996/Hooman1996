@@ -15,6 +15,11 @@ production deployment.
 ---
 
 ## 🛠️ Skills & Technologies
+### **NLP & Generative AI**
+![HuggingFace](https://img.shields.io/badge/huggingface-%23FFD21E.svg?style=flat&logo=huggingface&logoColor=white)
+![vLLM](https://img.shields.io/badge/vllm-%2330A2FF.svg?style=flat&logo=vllm&logoColor=ffffff)
+![LangGraph](https://img.shields.io/badge/langgraph-%231C3C3C.svg?style=flat&logo=langgraph&logoColor=white)
+![LangChain](https://img.shields.io/badge/langchain-%231C3C3C.svg?style=flat&logo=langchain&logoColor=white)
 
 ### **AI & Deep Learning**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
