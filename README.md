@@ -49,11 +49,11 @@ production deployment.
 ---
 
 ## 💼 Professional Experience
-### **AI Engineer** | *PropTy Global* | **06/2025 –  06/2026**
+### **AI Engineer** | *PropTy Global* | **06/2024 –  06/2026**
 📍 Dubai, Emirates
 - Architected and deployed a full‑stack Computer vision system in AR/VR for real estate businesses.
 
-### **AI Engineer** | *Negah Bank* | **06/2025 –  06/2026**
+### **AI Engineer** | *Negah Bank* | **06/2023 –  06/2024**
 📍 Dubai, Emirates
 #### Internal Knowledge Retrieval Platform (RAG‑Based Chatbot)
 - Architected and deployed a full‑stack **RAG** platform indexing 12,000+ internal PDFs and
@@ -81,7 +81,7 @@ from prototype to production, define API contracts, implement audit logging and 
 document incident-response and escalation procedures.
 - Reduced reliance on live support-center agents by 65% and improved overall CSAT by 18% within 6 months.
 
-### **AI Engineer** | *Sharif Dynamics* | **06/2023 –  06/2025**  
+### **AI Engineer** | *Sharif Dynamics* | **06/2021 –  06/2023**  
 📍 Dubai, Emirates
 ##### Autonomous UAV Navigation (GPS‑Denied)
 - Built a real-time **multi-sensor localization** system combining RGB imagery, LiDAR, and radar for **GPSdenied navigation**; achieved **1.8-meter positional RMSE and 4.6-meter 95th-percentile** error across 64
@@ -104,7 +104,7 @@ Redesigned **PostGIS** spatial indexes and optimized the most frequent navigatio
 query latency by 45%, from 820 milliseconds to 450 milliseconds, across a benchmark of 10,000
 representative spatial queries.
 
-### **AI Engineer (Deep Learning Lead)** | *Irancell Signal Processing Lab* | **06/2021 – 06/2023**  
+### **AI Engineer (Deep Learning Lead)** | *Irancell Signal Processing Lab* | **06/2019 – 06/2021**  
 📍 Tehran, Iran  
 - Led a **four-engineer applied-ML team** developing **DeepLabV3+** road and building segmentation models,
 achieving **84% mIoU** on 2,400 labeled image tiles.  
@@ -113,7 +113,7 @@ achieving **84% mIoU** on 2,400 labeled image tiles.
 - Integrated segmentation masks into a DEM-refinement pipeline, reducing elevation RMSE from 4.7 m to 4.0
 m across 12 validation areas and cutting manual digitization effort by 70%.  
 
-### **Data Analyst & RS Team Lead** | *Sarvban* | **02/2021 – 06/2021**  
+### **Data Analyst & RS Team Lead** | *Sarvban* | **02/2019 – 06/2019**  
 📍 Tehran, Iran  
 - Analyzed 15+ competitors and identified 10 product opportunities; four recommendations advanced to
 prototype development and customer validation.
